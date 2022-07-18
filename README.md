@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2">
+  <iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2">via GIPHY</a></p>
+
   <h1 align="center">Hello There!</h1>
 </div>
 <div>
