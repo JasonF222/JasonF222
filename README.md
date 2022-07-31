@@ -6,7 +6,7 @@
 <div>
   <h2>About Me:</h2>
   <ul>
-    <li>Full Stack Software Developer</li>
+    <li>Full Stack Software Engineer</li>
     <li>Massage Therapist and Yoga Instructor</li>
     <li>Frontend Enthusiast!</li>
   </ul>
